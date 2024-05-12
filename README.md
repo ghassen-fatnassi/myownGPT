@@ -1,4 +1,4 @@
-# I'm following Let's Build GPT: From Scratch
+# I'm following "Let's Build GPT: From Scratch" by Andrej Karpathy
 ## Overview
 In this tutorial, Andrej Karpathy guides you through the step-by-step process of building a GPT model from scratch, covering:
 
